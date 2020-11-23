@@ -1,8 +1,8 @@
 <template>
   <div class="container">
     <div>
-      <Logo />
-      <h1 class="title">cc-port</h1>
+      <Logo class="mx-auto" />
+      <h1 class="title">Praktikamd0</h1>
       <div class="links">que pasa lokoooo sus pium pium o ke</div>
     </div>
   </div>
